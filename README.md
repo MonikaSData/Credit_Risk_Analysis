@@ -35,27 +35,51 @@ Describe the balanced accuracy score and the precision and recall scores of all 
 
 ![Resources/RandomOversampling.png](Resources/RandomOversampling.png)
 
+- The accuracy score of this model is ~67%
+- For high risk predictions the precision is 1% and recall/sensitivity is 64%
+- For the low risk predictions the precision is 100% and recall/sensitivity is 67%
+
+
 
 **SMOTE Oversampling**
 
 ![Resources/SMOTE.png](Resources/SMOTE.png)
 
+- The accuracy score of this model is ~65% 
+- For high risk predictions the precision is 1% and recall/sensitivity is 62%
+- For the low risk predictions the precision is 100% and recall/sensitivity is 65%
+
 **ClusterCentroids Resampler**
 
 ![Resources/ClusterCentroids.png](Resources/ClusterCentroids.png)
+
+- The accuracy score of this model is ~41% (the lowest of all models)
+- For high risk predictions the precision is 1% and recall/sensitivity is 63%
+- For the low risk predictions the precision is 100% and recall/sensitivity is 41%
 
 **SMOTEENN**
 
 ![Resources/SMOTEENN.png](Resources/SMOTEENN.png)
 
+- The accuracy score of this model is ~55%
+- For high risk predictions the precision is 1% and recall/sensitivity is 71%
+- For the low risk predictions the precision is 100% and recall/sensitivity is 55%
 
 **Balanced Random Forest Classifier**
 
 ![Resources/BalancedRandomForestClassifier.png](Resources/BalancedRandomForestClassifier.png)
 
+- The accuracy score of this model is ~77%
+- For high risk predictions the precision is 3% and recall/sensitivity is 67%
+- For the low risk predictions the precision is 100% and recall/sensitivity is 87%
+
 **Easy Ensemble AdaBoost Classifier**
 
 ![Resources/EasyEnsembleClassifier.png](Resources/EasyEnsembleClassifier.png)
+
+- The accuracy score of this model is ~93% (the highest accuracy score out of all 6 models)
+- For high risk predictions the precision is 9% and recall/sensitivity is 92%
+- For the low risk predictions the precision is 100% and recall/sensitivity is 94%
 
 
 ## Summary
