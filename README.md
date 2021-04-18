@@ -12,10 +12,10 @@ Employ different techniques to train and evaluate models with unbalanced classes
 
 **Approach:**
 
-*Use Resampling Models to Predict Credit Risk*
-*Use the SMOTEENN Algorithm to Predict Credit Risk*
-*Use Ensemble Classifiers to Predict Credit Risk*
-*A Written Report on the Credit Risk Analysis*
+- *Use Resampling Models to Predict Credit Risk*
+- *Use the SMOTEENN Algorithm to Predict Credit Risk*
+- *Use Ensemble Classifiers to Predict Credit Risk*
+- *A Written Report on the Credit Risk Analysis*
 
 **Method:** Using scikit-learn and imbalanced-learn libraries, Google Collab.
 
