@@ -33,28 +33,29 @@ Describe the balanced accuracy score and the precision and recall scores of all 
 
 **Random Oversampling**
 
-![Resources/..](Resources/...PNG)
+![Resources/RandomOversampling.png](Resources/RandomOversampling.png)
 
 
 **SMOTE Oversampling**
 
-![Resources/..](Resources/...PNG)
+![Resources/SMOTE.png](Resources/SMOTE.png)
 
 **ClusterCentroids Resampler**
 
-![Resources/..](Resources/...PNG)
+![Resources/ClusterCentroids.png](Resources/ClusterCentroids.png)
 
 **SMOTEENN**
 
-![Resources/..](Resources/...PNG)
+![Resources/SMOTEENN.png](Resources/SMOTEENN.png)
 
 
 **Balanced Random Forest Classifier**
-![Resources/..](Resources/...PNG)
+
+![Resources/BalancedRandomForestClassifier.png](Resources/BalancedRandomForestClassifier.png)
 
 **Easy Ensemble AdaBoost Classifier**
 
-
+![Resources/EasyEnsembleClassifier.png](Resources/EasyEnsembleClassifier.png)
 
 
 ## Summary
