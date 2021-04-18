@@ -83,4 +83,5 @@ Describe the balanced accuracy score and the precision and recall scores of all 
 
 
 ## Summary
- 
+
+ Out of the 6 models that we used to predict the credit risk the Easy Ensemble Classifier had the highest accuracy of 93%. The model performed very well in predicting low risk due to high mumber of low risk samples in the dataset; however, the model did not do well in predicting the high risk (precision is 9% and recall/sensitivity is 92% and the f1 score is only 16%, which can tell us that the model is not performing very well). The model still predicted unacceptable number of high risk applications as low risk which can cost the lender company money. Due to this reason I would not recommend using any of these models as is.
